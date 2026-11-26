@@ -8,7 +8,7 @@ import javax.net.ssl.HttpsURLConnection;
 import org.json.JSONObject;
 
 record AppUpdate(String version, String apkUrl) {
-    private static final String REPOSITORY = "xokeza/InvokeVPN-Android";
+    private static final String REPOSITORY = "xokeza/InvokeVPN-Client";
     private static final Pattern VERSION = Pattern.compile("[0-9]{1,8}\\.[0-9]{1,8}\\.[0-9]{1,8}");
 
     static AppUpdate latest(String installed) throws Exception {

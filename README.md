@@ -1,6 +1,10 @@
-# InvokeVPN для Android
+# InvokeVPN Client
 
-Нативный клиент Android 8.0+ для ARM64 и x86-64. Xray работает в процессе приложения и получает системный TUN от `VpnService`. [Скачать подписанный APK и контрольную сумму](https://github.com/xokeza/InvokeVPN-Android/releases/latest).
+Сейчас доступен Android-клиент. В планах iOS, Windows, Linux и macOS.
+
+## Android
+
+Нативный клиент Android 8.0+ для ARM64 и x86-64. Xray работает в процессе приложения и получает системный TUN от `VpnService`. [Скачать подписанный APK и контрольную сумму](https://github.com/xokeza/InvokeVPN-Client/releases/latest).
 
 Иконки интерфейса хранятся в [отдельных SVG](app/src/main/assets/icons) и конвертируются в Android VectorDrawable при сборке. Используются иконки Lucide с уменьшенной толщиной линий и шрифт Inter с кириллицей. Таймер использует табличные цифры. Лицензии входят в APK.
 

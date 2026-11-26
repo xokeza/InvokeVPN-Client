@@ -7,8 +7,8 @@ ndk=${ANDROID_NDK_HOME:-"$build/android-ndk-r28c"}
 build_tools="$sdk/build-tools/36.0.0"
 platform="$sdk/platforms/android-36/android.jar"
 key_dir=${INVOKEVPN_ANDROID_SIGNING_DIR:-"$HOME/.local/share/invokevpn/android-signing"}
-version_name=1.2.7
-version_code=11
+version_name=1.2.8
+version_code=12
 apk="$project/dist/InvokeVPN-$version_name.apk"
 src="$project/app/src/main"
 
