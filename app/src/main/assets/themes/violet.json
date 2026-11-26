@@ -1,0 +1,37 @@
+{
+  "backgroundGradientRotationAngle": 45,
+  "backgroundGradientColorIntensity": 1,
+  "backgroundColors": [
+    "#0B0614FF",
+    "#180B2AFF",
+    "#2B1247FF"
+  ],
+  "serverRowBackgroundColor": "#170D26FF",
+  "selectedServerRowColor": "#38205AFF",
+  "subsHeaderColor": "#2B1745FF",
+  "buttonColor": "#A97BFFFF",
+  "buttonTextColor": "#170A2BFF",
+  "powerIconColor": "#31195BFF",
+  "serverRowTitleTextColor": "#FBF7FFFF",
+  "serverRowSubTitleTextColor": "#B7A5CAFF",
+  "topBarButtonsColor": "#B996FFFF",
+  "supportIconColor": "#B996FFFF",
+  "profileWebPageIconColor": "#B996FFFF",
+  "subHeaderButtonColor": "#B996FFFF",
+  "settingsControlsTintColor": "#A97BFFFF",
+  "subscriptionInfoBackgroundColor": "#190E29FF",
+  "subscriptionTrafficBackgroundColor": "#3B225FFF",
+  "subscriptionInfoTextColor": "#FBF7FFFF",
+  "disclosureHeaderTextColor": "#FBF7FFFF",
+  "disclosureSubHeaderTextColor": "#B7A5CAFF",
+  "serverRowChevronColor": "#B996FFFF",
+  "additionalOptionsButtonColor": "#B996FFFF",
+  "buttonTimerColor": "#FFFFFFFF",
+  "elipseColors": [
+    "#A97BFFFF",
+    "#6C3BFFFF",
+    "#E1C0FFFF"
+  ],
+  "backgroundImageType": "light",
+  "buttonImageType": "light"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "metadata": {
+    "subscription-userinfo": {
+      "upload": 29,
+      "download": 12,
+      "total": 1073741824000,
+      "expire": 2546249531
+    },
+    "profile-title": "InvokeVPN",
+    "profile-update-interval": 1,
+    "profile-web-page-url": "https://xokeza.su/invokevpn/cabinet/",
+    "support-url": "https://t.me/xokeza",
+    "announce": "InvokeVPN",
+    "announce-url": "https://xokeza.su/invokevpn/",
+    "hide-servers": false,
+    "hide-settings": true,
+    "skip-servers": true,
+    "hide": true,
+    "sub-expire": true,
+    "sub-expire-button-link": "https://xokeza.su/invokevpn/cabinet/#tariffs",
+    "notification-subs-expire": true,
+    "update-always": false,
+    "subscription-auto-update-enable": true,
+    "subscription-auto-update-open-enable": false,
+    "subscription-pin": true,
+    "subscriptions-collapse": 0,
+    "subscriptions-sort-type": "none",
+    "dont-use-filter": false,
+    "subscription-autoconnect": false,
+    "subscription-autoconnect-type": "lastused",
+    "subscription-ping-onopen-enabled": false,
+    "ping-type": "proxy",
+    "check-url-via-proxy": "https://cp.cloudflare.com/generate_204",
+    "ping-result": "time",
+    "sniffing-enable": true,
+    "subscription-always-hwid-enable": false,
+    "exclude-local-networks-enable": true,
+    "xray-tun-enable": true
+  },
+  "servers": [
+    {
+      "uri": "vless://aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa@vpn.example.com:443?encryption=none&security=tls&type=ws&path=%2Fvpn#Пример"
+    }
+  ]
+}
