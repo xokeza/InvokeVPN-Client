@@ -53,3 +53,7 @@ export ANDROID_NDK_HOME="/путь/к/android-ndk-r28c"
 Скрипт подписывает APK ключом из `$INVOKEVPN_ANDROID_SIGNING_DIR` или `~/.local/share/invokevpn/android-signing/` и создаёт его при первой сборке. Сохраните `release.p12` и пароль в защищённой резервной копии. Для обновления установленной версии нужен тот же ключ. Пакет приложения — `su.xokeza.invokevpn`.
 
 Встроенный Xray-core версии `v1.260327.0` доступен в [официальном репозитории XTLS](https://github.com/XTLS/Xray-core/tree/v26.3.27). Android-привязка и список Go-зависимостей находятся в `core/`. Уведомления о лицензиях входят в APK.
+
+## Контрибьюторы
+
+- [InvokeCorp](https://github.com/InvokeCorp)
